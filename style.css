@@ -110,6 +110,7 @@ header > p{
     margin: auto;
     padding-right: 10px;
     scroll-padding-left: 10px;
+    text-decoration: underline;
 }
 footer{
     background-color: var(--cor05);
